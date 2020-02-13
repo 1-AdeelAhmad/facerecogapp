@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/facerecogapp/static/css/main.a78d3ccf.chunk.css",
-    "main.js": "/facerecogapp/static/js/main.6f0769a9.chunk.js",
-    "main.js.map": "/facerecogapp/static/js/main.6f0769a9.chunk.js.map",
+    "main.js": "/facerecogapp/static/js/main.4f3876db.chunk.js",
+    "main.js.map": "/facerecogapp/static/js/main.4f3876db.chunk.js.map",
     "runtime-main.js": "/facerecogapp/static/js/runtime-main.277dbcfb.js",
     "runtime-main.js.map": "/facerecogapp/static/js/runtime-main.277dbcfb.js.map",
-    "static/js/2.234bef71.chunk.js": "/facerecogapp/static/js/2.234bef71.chunk.js",
-    "static/js/2.234bef71.chunk.js.map": "/facerecogapp/static/js/2.234bef71.chunk.js.map",
+    "static/js/2.88eb0620.chunk.js": "/facerecogapp/static/js/2.88eb0620.chunk.js",
+    "static/js/2.88eb0620.chunk.js.map": "/facerecogapp/static/js/2.88eb0620.chunk.js.map",
     "index.html": "/facerecogapp/index.html",
-    "precache-manifest.2310a4f574592fe786928be28cd07a63.js": "/facerecogapp/precache-manifest.2310a4f574592fe786928be28cd07a63.js",
+    "precache-manifest.96119e7fa083033dda89e3a5704aa311.js": "/facerecogapp/precache-manifest.96119e7fa083033dda89e3a5704aa311.js",
     "service-worker.js": "/facerecogapp/service-worker.js",
     "static/css/main.a78d3ccf.chunk.css.map": "/facerecogapp/static/css/main.a78d3ccf.chunk.css.map",
-    "static/js/2.234bef71.chunk.js.LICENSE.txt": "/facerecogapp/static/js/2.234bef71.chunk.js.LICENSE.txt"
+    "static/js/2.88eb0620.chunk.js.LICENSE.txt": "/facerecogapp/static/js/2.88eb0620.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.277dbcfb.js",
-    "static/js/2.234bef71.chunk.js",
+    "static/js/2.88eb0620.chunk.js",
     "static/css/main.a78d3ccf.chunk.css",
-    "static/js/main.6f0769a9.chunk.js"
+    "static/js/main.4f3876db.chunk.js"
   ]
 }
